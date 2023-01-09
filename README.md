@@ -13,7 +13,7 @@
 
 ## Live
 
-### [You can play the quiz here](https://replit.com/@nvspavankalyan/neoG-camp-MarkOne-Do-You-Know-Me-CLI-Based-Quiz-Game#index.js "Quiz App Link")
+### [You can play the quiz here](https://replit.com/@nvspavankalyan/neoG-camp-MarkOne-Do-You-Know-Me-CLI-Based-Quiz-Game?embed=1&output=1 "Quiz App Link")
 
 ## Snapshots: 
 
